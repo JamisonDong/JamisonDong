@@ -61,7 +61,6 @@
 | :--- | :--- | :--- |
 | [**wechat-wordart**](https://github.com/JamisonDong/wechat-wordart) | `Python` `Jieba` `SVG` `树莓派` | 微信聊天记录 → 分词情感分析 → 动态生成 SVG 词画 → 树莓派墨水屏定时拉取展示。 |
 | [**screen-2-excel**](https://github.com/JamisonDong/screen-2-excel) | `Python` `OCR` `Excel` | 智能截屏解析，一键将各类图片/屏幕表格还原为带格式的标准 `.xlsx` 电子表格。 |
-| [**search-everything**](https://github.com/JamisonDong/search-everything) | `DuckDB` `ECharts` `离线大屏` | 1600 万级大数据单机秒级检索与态势感知系统，支持动态安全防拍水印与完全离线运行。 |
 | [**HydraQuant**](https://github.com/JamisonDong) | `AI 量化` `多市场系统` | 面向加密货币与多市场的科学 AI 量化交易平台，聚焦自动化投研与实盘信号执行。 |
 | [**Codex Agent OS**](https://github.com/JamisonDong) | `Agent 控制面` `Local-First` | 面向大模型 Agent 复杂长任务的本地控制平面，支持隔离工作树与安全能力调度。 |
 
